@@ -16,20 +16,16 @@ header {
     padding: 20px;
 }
 
-header,
-h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header,
-h1,
-.seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-header,
-nav {
+header nav {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -37,16 +33,11 @@ nav {
     padding-top: 15px;
 }
 
-header,
-nav,
-ul {
+header nav ul {
     list-style-type: none;
 }
 
-header,
-nav,
-ul,
-li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -86,13 +77,11 @@ p {
     padding: 50px;
 }
 
-.mainsection,
-img {
+.mainsection img {
     max-height: 200px;
 }
 
-.mainsection,
-h2 {
+.mainsection h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
@@ -124,14 +113,12 @@ h2 {
     margin-bottom: 32px;
 }
 
-.sidesection,
-h3 {
+.sidesection h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.sidesection,
-img {
+.sidesection img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
