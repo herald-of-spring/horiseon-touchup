@@ -8,7 +8,7 @@ Refactoring Horiseon's web page to improve accessibility.
 - Commenting, alphabetizing, consolidating classes to `assets/css/style.css`
 
 ### Preview of the finished product
-![Horiseon](Horiseon-web.jpeg?raw=true "Horiseon Home Page")
+![Horiseon](./images/Horiseon-web.jpeg?raw=true "Horiseon Home Page")
 
 The webpage can be accessed [here](https://herald-of-spring.github.io/horiseon-touchup/)
 
